@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manjunathlokesh
-- 👀 I’m interested in Linux,Linux kernal internals, C/C++ programming and embedded.
-- 🌱 I’m currently learning C++ and Linux kernal.
-- 💞️ I’m looking to collaborate on inovativte projects and liux programming exploring.
+- 👀 I’m interested in Linux,Linux kernel internals, C/C++ programming and embedded.
+- 🌱 I’m currently learning C++ and Linux kernel.
+- 💞️ I’m looking to collaborate on inovative projects and linux programming exploring.
 - 📫 How to reach me at manjnunath.lokesh12@gmail.com
 
 <!---
